@@ -8,3 +8,6 @@ Activity 2 screenshot:
 
 Activity 3 screenshot:
 ![image](https://github.com/snehshah09/ECE444-F2023-Assignment1/assets/52886440/b315be7c-ba5c-4f75-bbc9-6c3f2efea877)
+
+Activity 4 screenshot:
+![Alt text](image.png)
